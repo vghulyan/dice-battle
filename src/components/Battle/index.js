@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import './index2.css';
+import './battle.css';
 import StyledButton from "../StyledButton";
 
 const Battle = (props) => {
